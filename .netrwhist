@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/home/len/rails/titt/app/models/concerns'
+let g:netrw_dirhist_2='/home/len/rails/titt/app/views/touches'
+let g:netrw_dirhist_3='/home/len/rails/titt/app/controllers/concerns'
+let g:netrw_dirhist_4='/home/len/rails/titt/app'
+let g:netrw_dirhist_5='/home/len/rails/titt/app/models'

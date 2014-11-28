@@ -1,0 +1,8 @@
+Installation:
+
+   git clone gitL//github.com/vampirechicken/dotvim.got ~/.vim
+
+Create symlinks:
+
+    ln -z ~/.vim/vimrc ~/.vimrc
+    ln -z ~/.vim/gvimrc ~/.gvimrc
