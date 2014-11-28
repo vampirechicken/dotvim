@@ -1,6 +1,11 @@
+call pathogen#infect()
+
 syntax on
+
 set hidden
 set number showmatch visualbell
-filetype plugin indent on
 
-call pathogen#infect()
+if has("autocmd")
+  filetype plugin indent on
+endif
+
