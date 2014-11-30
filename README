@@ -1,11 +1,11 @@
 Installation:
 
-   git clone gitL//github.com/vampirechicken/dotvim.got ~/.vim
+   git clone git://github.com/vampirechicken/dotvim.git ~/.vim
 
 Create symlinks:
 
-    ln -z ~/.vim/vimrc ~/.vimrc
-    ln -z ~/.vim/gvimrc ~/.gvimrc
+    ln -s ~/.vim/vimrc  ~/.vimrc
+    ln -s ~/.vim/gvimrc ~/.gvimrc
 
 Initialize plugin bundles:
 
